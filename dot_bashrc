@@ -1,0 +1,13 @@
+#
+# ~/.bashrc
+#
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+PS1='[\u@\h \W]\$ '
+alias i3cfg="nvim ~/.config/i3/config"
+alias jabra="bluetoothctl connect 50:C2:E2:37:22:84"
+alias pacman="sudo pacman"
