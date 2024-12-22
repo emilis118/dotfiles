@@ -1,3 +1,10 @@
 runelite
 yay
 yay-debug
+bluetuith
+bluetuith-debug
+postman-bin
+runelite
+tmux-plugin-manager
+yay
+yay-debug
